@@ -12,5 +12,6 @@ public function getInstance(){
 public function getFilterArr(){}
 
 public function getNum(){}
+public function add(){}
 
 }
