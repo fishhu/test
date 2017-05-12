@@ -7,4 +7,6 @@ public function getInstance(){
   }
   return self::$instance;
 }
+
+public function getNum(){}
 }
